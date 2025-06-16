@@ -13,8 +13,8 @@
 - name: "Ben Brown"
   title: "Treasurer"
   email: "treasurer@necaveconservancy.org"
-  biography: null
-  image_path: null
+  biography: "Ben has been caving since his early teens.  He has held various leadership roles in the Niagara Frontier Grotto over the last decade and has visited caves across the US.  He is an active digger and current chairman of the NSS Digging Section.  His digs have resulted in the discovery of several new caves in New York State.  He is an electrical engineer with extensive product development experience in both corporate and high-tech startup roles.  He currently runs his own small business in Western New York and is a volunteer mentor with SCORE on small business topics.  He became the NCC treasurer in 2025."
+  image_path: "/assets/images/officers/ben_brown.jpg"
 
 - name: "Ramon Armen"
   title: "Secretary"
@@ -43,8 +43,8 @@
 - name: "Paul Rubin"
   title: "Trustee"
   email: "p.rubin@necaveconservancy.org"
-  biography: null
-  image_path: "/assets/images/officers/paul_rubin.png"
+  biography: "Paul Rubin is a Professional Geologist who has been exploring and conducting research in Albany and Schoharie County caves since 1973.  He has pushed the physical limits of McFail’s Cave, Skull Cave, and Howe Caverns, and documented the first occurrence of white-nose syndrome in bats in the United States.  His karst research focusses on unravelling the geomorphic history of caves and their surroundings, with emphasis on bedrock structure, sediment sequence, and the interaction of karst and glaciation.  Findings have been presented at Geological Society of America meetings, before numerous other professional organizations, and shared with cavers and the public."
+  image_path: "/assets/images/officers/paul_rubin.jpg"
 
 - name: "Erik Nieman"
   title: "Trustee"
@@ -52,25 +52,25 @@
   biography: null
   image_path: "/assets/images/officers/erik_nieman.jpg"
 
-- name: "R. Laurence Davis"
+- name: "Cara Gentry"
+  title: "Trustee"
+  email: "c.gentry@necaveconservancy.org"
+  biography: "Cara has been caving since 1997. She received a graduate degree in Environmental Geosciences at the University of New Haven and completed additional graduate work in Geology at the University of Florida where she was the president of the Florida Speleological Society. Upon returning to the northeast, she joined Shawangunk-Catskill Area Grotto and has served as president for several years. Cara helped facilitate the discussion between the NCC and the previous owners of Salamander Cave inorder to protect the cave for future generations of cavers and has served as preserve manager since the land was donated."
+  image_path: "/assets/images/officers/cara_gentry.jpg"
+
+- name: "Thom Engel"
   title: "Trustee"
   email: "l.davis@necaveconservancy.org"
   biography: null
   image_path: null
 
-- name: "Cara Gentry"
-  title: "Trustee"
-  email: "c.gentry@necaveconservancy.org"
-  biography: null
-  image_path: null
-
-- name: "Joe Levinson"
+- name: "Garrett Gay"
   title: "Trustee"
   email: "j.levinson@necaveconservancy.org"
   biography: null
   image_path: null
 
-- name: "Norm Berg"
+- name: "John Dunham"
   title: "Trustee"
   email: "n.berg@necaveconservancy.org"
   biography: null
