@@ -3,3 +3,4 @@ feed.json
 atom.xml
 vendor
 .jekyll-cache
+.DS_Store
