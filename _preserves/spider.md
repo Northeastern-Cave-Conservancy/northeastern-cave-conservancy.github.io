@@ -2,7 +2,7 @@
 title: "Spider Cave Preserve"
 layout: preserve
 permalink: /preserves/spider/
-manager: "Kevin Dumont & Adrian Hectus"
+manager: "Kevin Dumont & Adriane Hectus"
 email: "spider@necaveconservancy.org"
 managementPlanPath: "/preserves/spider/management_plan.pdf"
 party:

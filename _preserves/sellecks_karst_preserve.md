@@ -2,7 +2,7 @@
 title: "Sellecks Karst Preserve"
 layout: preserve
 permalink: /preserves/sellecks/
-manager: "Erik Nieman & Tony Vasile"
+manager: "Erik Nieman"
 email: sellecks@necaveconservancy.org
 images:
 managementPlanPath: "/preserves/sellecks/management_plan.pdf"
